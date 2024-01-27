@@ -1,2 +1,2 @@
 # FOCP-RITIK-KUMAR-YADAV-9285-
-PYTHON , Weekly exercise and final assignments 
+This repo includes Weekly exercise and final assignments ( Task 1,2,3 )
